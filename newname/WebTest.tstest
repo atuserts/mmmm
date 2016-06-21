@@ -29,7 +29,7 @@
     "TestAssemblyPath": "bin",
     "TestClass": "",
     "IsManual": false,
-    "ResourceFilePath": "New Folder\\WebTest.resx",
+    "ResourceFilePath": "newname\\WebTest.resx",
     "HasCodeBehind": false,
     "DataInfo": {
       "__type": "ArtOfTest.Common.Design.Data.DataInfo",
@@ -61,7 +61,7 @@
     "Description": "",
     "Name": "WebTest",
     "Owner": "",
-    "Path": "New Folder\\WebTest.tstest",
+    "Path": "newname\\WebTest.tstest",
     "Priority": 0,
     "TestType": 0,
     "UniqueId": "799cc9ac-c67e-403f-9b42-1a3b1894597a",
